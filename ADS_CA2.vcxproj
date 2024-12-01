@@ -21,6 +21,15 @@
   <ItemGroup>
     <ClInclude Include="BinaryTree.h" />
     <ClInclude Include="BSTNode.h" />
+    <ClInclude Include="DataViewer.h" />
+    <ClInclude Include="Employee.h" />
+    <ClInclude Include="TreeMap.h" />
+    <ClInclude Include="WordOrganizer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DataViewer.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="WordOrganizer.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
